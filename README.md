@@ -354,7 +354,7 @@ contract("HelloWorld", accounts => {
 
 ```javascript
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = "your mnemonic here";
+const mnemonic = "秘密のフレーズ";もしくはウォレットの秘密鍵
 
 module.exports = {
   networks: {
@@ -375,7 +375,7 @@ module.exports = {
 
 ## 15. その他のリソース
 
-- [Truffle公式ドキュメント](https://www.trufflesuite.com/docs/truffle/overview)
+- [Truffle公式ドキュメント](https://archive.trufflesuite.com/docs/)
 - [Ethereum公式ドキュメント](https://ethereum.org/ja/developers/docs/)
 - [Solidity公式ドキュメント](https://docs.soliditylang.org/ja/v0.8.21/)
 
