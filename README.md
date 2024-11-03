@@ -377,8 +377,6 @@ module.exports = {
 
 - [Truffle公式ドキュメント](https://archive.trufflesuite.com/docs/)
 - [Ethereum公式ドキュメント](https://ethereum.org/ja/developers/docs/)
-- [Solidity公式ドキュメント](https://docs.soliditylang.org/ja/v0.8.21/)
+- [Solidity公式ドキュメント](https://docs.soliditylang.org/en/v0.8.28/)
 
----
 
-以上が、Truffleプロジェクトを作成するための基本的な手順です。プロジェクトの要件に応じて、さらに詳細な設定やツールの導入を検討してください。Truffleは多機能で柔軟性が高いため、公式ドキュメントを参考にしながら自分のプロジェクトに最適な設定を見つけてください。
